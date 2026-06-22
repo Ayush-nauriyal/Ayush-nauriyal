@@ -1,4 +1,5 @@
-#Ayush Nauriyal
+##Ayush Nauriyal
+
 2 years as a Backend Engineer building in fintech (clearing, derivatives matching, and auto-adjustments) and in the IAM security space, helping create a first of its kind product that detects violations not just at the user level, but at every level of entitlement (users, permission sets, groups, roles, etc.).
 
 After spending the last year in fast-paced engineering environments, I realized I had become too reliant on AI-assisted development. This year is dedicated to rebuilding myself: revisiting computer science fundamentals, and strengthening the engineering intuition. I'm documenting that journey in public as I learn and build.
